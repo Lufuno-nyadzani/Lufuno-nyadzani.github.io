@@ -10,17 +10,25 @@ I am a recent graduate with a profound interest in technology and a dedication t
 My joueney in Infromation Technology has led me to develop a passion for networking, and I am now eager to transition into this field.
 
 ##Skills
+.Troubleshooting 
+.network Design
+.CCNA System 
 
-     Skills                          | Assciated Project
-    ---------------------------------|---------------------
-
+##Project
+• Designed and implemented network topologies.
+• Configured and installed domains and Active Directories.
+• Set up remote desktop connections and created system policies.
+• Planned IP addresses using VLSM and configured VLANs.
+• Configured dynamic routing (OSPF) and tested full network connectivity.
+• Configured wireless security and VTP on switches.
+      
     
 ##Tools
-[provide tools and break them down into categories, use chatgtp to help create the link]
+• packet Tracer
+• virtualBox
+• 
 
-## Network
 
-##certification 
 
 
 
